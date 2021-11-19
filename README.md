@@ -1,9 +1,7 @@
 # imputation-mix
 
-
-Title:  Lilly summer intern
-Project: imputation of mixed types                                
-Author: Tuo Wang (email: twang437@wisc.edu, website: tuowang.rbind.io)   
+Project: Imputation of mixed types                                
+Author: Tuo Wang (email: twang437@wisc.edu, website: https://tuowang.rbind.io/)   
 Supervisors: Yongming Qu and Ying Grace Li                               
 Date:   Jun - Aug 2021                                                   
 
