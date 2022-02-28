@@ -581,7 +581,7 @@ for (i in 1:ns) {
   Y2.df <- rbind.data.frame(
     Y2.df, bind_rows(Y2.df.other, Y2.df.imp))
   
-  save.image(file = glue("./sim11-10-ind.RData"))
+  #save.image(file = glue("./sim11-10-ind.RData"))
   
 }
 
