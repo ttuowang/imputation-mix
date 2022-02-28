@@ -6,7 +6,7 @@
 # Date:   Aug 2021                                                         #
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~# 
 
-simid <- "10-20-ind"
+#simid <- "10-20-ind"
 
 # Preparation 
 
@@ -608,8 +608,6 @@ for (i in 1:ns) {
   #save.image(file = glue("./sim{simid}.RData"))
   
 }
-
-load(file=here::here("sim11-10-d.RData"))
 
 mean(rmt.dat.A0)
 mean(rmt.dat.A1)
