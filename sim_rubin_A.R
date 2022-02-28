@@ -10,8 +10,6 @@
 
 # Preparation 
 
-load(file=here::here("./sim11-10-ind.RData"))
-
 library(tidyverse) # data manipulation and data visualization
 library(survival)  # fit survival models (e.g. Kaplan-meier)
 library(reda)      # calculate non-parametric mean cumulative function
